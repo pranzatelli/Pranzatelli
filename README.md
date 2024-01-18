@@ -21,14 +21,6 @@ I'm a graduate student in Computational Biology, Bioinformatics and Genomics at 
 
 - Email: your-email@example.com
 - LinkedIn: [Your Name](#)
-- Twitter: [@yourhandle](#)
+- Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/pranzatelli?style=social)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranzatelli&theme=radical)
-
-![Twitter Follow](https://img.shields.io/twitter/follow/pranzatelli?style=social)
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=pranzatelli)
-
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=pranzatelli&theme=github)
-
-![Skyline](https://skyline.github.com/pranzatelli/currentyear)
