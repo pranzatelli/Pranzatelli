@@ -24,4 +24,4 @@ I'm a graduate student in Computational Biology, Bioinformatics and Genomics at 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranzatelli&theme=radical)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=pranzatelli.pranzatelli&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=pranzatelli.Pranzatelli&left_color=green&right_color=red)
