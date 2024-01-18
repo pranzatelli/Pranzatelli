@@ -10,7 +10,6 @@ I'm a graduate student in Computational Biology, Bioinformatics and Genomics at 
 
 ## Selected Publications 🏆
 
-- Orcid : https://orcid.org/0000-0002-5763-1036
 - Pranzatelli TJF, Perez P, Ku A et al. GZMK+CD8+ T cells Target a Specific Acinar Cell Type in Sjögren’s Disease. Research Square (2023). https://doi.org/10.21203/rs.3.rs-3601404/v1
 - Pranzatelli, T.J.F., Michael, D.G. & Chiorini, J.A. ATAC2GRN: optimized ATAC-seq and DNase1-seq pipelines for rapid and accurate genome regulatory network inference. BMC Genomics 19, 563 (2018). https://doi.org/10.1186/s12864-018-4943-z
 - Huang, N., Pérez, P., Kato, T. et al. SARS-CoV-2 infection of the oral cavity and saliva. Nat Med 27, 892–903 (2021). https://doi.org/10.1038/s41591-021-01296-8
@@ -21,5 +20,6 @@ I'm a graduate student in Computational Biology, Bioinformatics and Genomics at 
 - Email: thomas.pranzatelli@gmail.com
 - LinkedIn: [Thomas Pranzatelli](https://www.linkedin.com/in/regulatorysystemsbiology)
 - Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/pranzatelli?style=social)
+- Orcid : https://orcid.org/0000-0002-5763-1036
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranzatelli&theme=radical)
