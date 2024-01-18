@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi, I'm Tom Pranzatelli 👋
 
-<!--
-**pranzatelli/Pranzatelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a graduate student in Computational Biology, Bioinformatics and Genomics at the University of Maryland - College Park and the National Institute of Dental and Craniofacial Research working with Philip Johnson and Jay Chiorini.
 
-Here are some ideas to get you started:
+## Skills 🛠️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Languages: Python, R
+- Frameworks/Libraries: Scanpy, Scikit-Learn, Tensorflow
+- Tools: Git, Docker
+
+## Projects 📂
+
+- **Project Name**: Brief description. ([link to repository](#))
+
+## Publications 🏆
+
+- first
+- second
+
+## Contact Me 📫
+
+- Email: your-email@example.com
+- LinkedIn: [Your Name](#)
+- Twitter: [@yourhandle](#)
+
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
