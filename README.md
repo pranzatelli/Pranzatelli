@@ -23,4 +23,4 @@ I'm a graduate student in Computational Biology, Bioinformatics and Genomics at 
 - LinkedIn: [Your Name](#)
 - Twitter: [@yourhandle](#)
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranzatelli&show_icons=true&theme=radical)
