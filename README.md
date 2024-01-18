@@ -24,3 +24,13 @@ I'm a graduate student in Computational Biology, Bioinformatics and Genomics at 
 - Twitter: [@yourhandle](#)
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranzatelli&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranzatelli&theme=radical)
+
+![Twitter Follow](https://img.shields.io/twitter/follow/pranzatelli?style=social)
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=pranzatelli.pranzatelli)
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=pranzatelli&theme=github)
+
+![Skyline](https://skyline.github.com/pranzatelli/currentyear)
