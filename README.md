@@ -15,9 +15,9 @@ I'm a graduate student in Computational Biology, Bioinformatics and Genomics at 
 - Huang, N., Pérez, P., Kato, T. et al. SARS-CoV-2 infection of the oral cavity and saliva. Nat Med 27, 892–903 (2021). https://doi.org/10.1038/s41591-021-01296-8
 - Nakamura H, Tanaka T, Pranzatelli T, et al Lysosome-associated membrane protein 3 misexpression in salivary glands induces a Sjögren’s syndrome-like phenotype in mice Annals of the Rheumatic Diseases 2021;80:1031-1039. https://doi.org/10.1136/annrheumdis-2020-219649
 
-## Contact Me 📫
+## Contact Me 
 
-- Email: thomas.pranzatelli@gmail.com
-- LinkedIn: [Thomas Pranzatelli](https://www.linkedin.com/in/totipotent)
-- Bluesky: [@totipotent](https://bsky.app/profile/totipotent.bsky.social)
-- Orcid : [0000-0002-5763-1036](https://orcid.org/0000-0002-5763-1036)
+📫 tpranzatelli@health.ucsd.edu
+<img scr="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width=30px> [Thomas Pranzatelli](https://www.linkedin.com/in/totipotent)
+ [@totipotent](https://bsky.app/profile/totipotent.bsky.social)
+ [0000-0002-5763-1036](https://orcid.org/0000-0002-5763-1036)
