@@ -18,6 +18,6 @@ I'm a graduate student in Computational Biology, Bioinformatics and Genomics at 
 ## Contact Me 
 
 - 📫 tpranzatelli@health.ucsd.edu
-- <img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width=30px> [Thomas Pranzatelli](https://www.linkedin.com/in/totipotent)
+- <img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width=20px> [Thomas Pranzatelli](https://www.linkedin.com/in/totipotent)
 - [@totipotent](https://bsky.app/profile/totipotent.bsky.social)
 - [0000-0002-5763-1036](https://orcid.org/0000-0002-5763-1036)
