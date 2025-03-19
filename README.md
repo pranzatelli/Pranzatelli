@@ -17,7 +17,7 @@ I'm a graduate student in Computational Biology, Bioinformatics and Genomics at 
 
 ## Contact Me 
 
-- 📫 tpranzatelli@health.ucsd.edu
-- <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width=10px> [Thomas Pranzatelli](https://www.linkedin.com/in/totipotent)
+- <img src="https://www.svgrepo.com/show/14478/email.svg" width=15px> tpranzatelli@health.ucsd.edu
+- <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width=15px> [Thomas Pranzatelli](https://www.linkedin.com/in/totipotent)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" width=15px> [@totipotent](https://bsky.app/profile/totipotent.bsky.social)
-- <img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width=20px> [0000-0002-5763-1036](https://orcid.org/0000-0002-5763-1036)
+- <img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width=15px> [0000-0002-5763-1036](https://orcid.org/0000-0002-5763-1036)
