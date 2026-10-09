@@ -1,6 +1,6 @@
 # Hi, I'm Tom Pranzatelli
 
-I'm a postdoctoral researcher in the [Cook-Andersen lab](https://cookandersenlaboratory.com/researchprojects/) at the Sanford Consortium for Regenerative Medicine at the University of California - San Diego. I study posttranscriptional modification of RNA in early mammalian embryos as they transition from totipotency to pluripotency.
+I'm a postdoctoral researcher in the [Cook-Andersen lab](https://cookandersenlaboratory.com/researchprojects/) at the Sanford Consortium for Regenerative Medicine at the University of California - San Diego. I study splicing and RNA decay in early mammalian embryos as they transition from totipotency to pluripotency.
 
 ## Selected Publications
 
